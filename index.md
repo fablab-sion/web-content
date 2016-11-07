@@ -1,7 +1,6 @@
 ---
-Redirect: /?en
 Template : index
-Language : en
+Language : fr
 ---
 
 # Welcome
