@@ -3,4 +3,4 @@ Template : index
 Language : fr
 ---
 
-# Welcome
+# %site_title%
