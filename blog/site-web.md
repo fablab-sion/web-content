@@ -1,9 +1,9 @@
 ---
-Title: Créez votre galerie de photos en ligne
-Date: 2016-11-23
+Title: Blog article 1
+Date: 2016-02-23
 Image: /assets/images/web.jpg
 Thumbnail: /assets/images/web-70x70.jpg
-Abstract: Apprenez a faire vous-même votre propre galerie de photos en utilisant différent langages du web!
+Abstract: Titio toto tata
 Author: brice
 Mail: animation@fablab-sion.ch
 Template: blog-post

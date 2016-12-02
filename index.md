@@ -1,6 +1,5 @@
 ---
-Template : index
-Language : fr
+Template : blog
 ---
 
-# %site_title%
+# Bienvenue
